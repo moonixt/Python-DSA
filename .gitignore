@@ -1,0 +1,12 @@
+# Plugins: código de terceiros e dados com credenciais (ex.: LiveSync data.json)
+.obsidian/plugins/
+
+# Estado local do Obsidian (muda a cada abertura e gera conflitos)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
